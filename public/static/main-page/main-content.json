@@ -1,0 +1,31 @@
+{
+    "mainContent": [
+        {
+            "active": true,
+            "useTemplateOrHtml": "template",
+            "template": {
+                "title": "Payments",
+                "text": "Keep track of payments with your friends",
+                "aHref": "/payments"
+            },
+            "html": ""
+        },
+        {
+            "active": true,
+            "useTemplateOrHtml": "template",
+            "template": {
+                "title": "Portfolio",
+                "text": "Check out my skills and CV",
+                "aHref": "/portfolio"
+            },
+            "html": ""
+        },
+        {
+            "active": false,
+            "useTemplateOrHtml": "html",
+            "template": {},
+            "html": "<a href=\"https://google.com\"> <h1>Tu kacper, a to jest link do google.</h1> </a>"
+        }
+
+    ]
+}
